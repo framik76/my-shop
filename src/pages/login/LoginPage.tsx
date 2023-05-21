@@ -1,4 +1,4 @@
-import { ChangeEvent, FormEvent, useEffect, useState } from 'react';
+import { FormEvent, useEffect } from 'react';
 import { useLogin } from './hooks/useLogin';
 import { selectAuthError, selectAuthIsLogged, useAuth } from '@/services/auth';
 import { ServerError } from '@/shared/';

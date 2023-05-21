@@ -1,5 +1,4 @@
 import clsx from 'clsx';
-import React from 'react';
 import { useCheckout } from './hooks/useCheckout';
 
 export function CheckoutPage() {
