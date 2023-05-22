@@ -13,9 +13,7 @@ export function CMSProductsPage() {
     
     return (
         <div>
-            <h1 className="title">CMS</h1>
-
-            Pagina Prodotti
+            <h1 className="title">Products</h1>
 
             <hr className="my-8"/>
 
